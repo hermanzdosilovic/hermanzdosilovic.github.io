@@ -1,0 +1,35 @@
+body {
+    padding-top: 80px;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.fa-linkedin {
+    color: #0077b5;
+}
+
+.fa-facebook {
+    color: #3b5998;
+}
+
+.fa-github {
+    color: #333;
+}
+
+.fa-file-pdf-o {
+    color: #6a737b;
+}
+
+.fa-envelope-o {
+    color: #ea4335;
+}
+
+.fa-pencil {
+    color: #fbbc05;
+}
+
+.fa {
+    margin: 10px 20px;
+}

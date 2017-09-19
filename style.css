@@ -1,9 +1,13 @@
 body {
-    padding-top: 80px;
+    padding-top: 120px;
 }
 
 .inline-block {
     display: inline-block;
+}
+
+.fa-quora {
+    color: #a82400;
 }
 
 .fa-linkedin {
@@ -22,14 +26,18 @@ body {
     color: #6a737b;
 }
 
+.fa-bookmark-o {
+    color: #00ab6c;
+}
+
 .fa-envelope-o {
     color: #ea4335;
 }
 
-.fa-pencil {
+.fa-lock {
     color: #fbbc05;
 }
 
 .fa {
-    margin: 10px 20px;
+    margin: 20px;
 }

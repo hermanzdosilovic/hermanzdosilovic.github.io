@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/hermanzdosilovic
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hermanz.dosilovic.com
+  * I am hermanzdosilovic (https://keybase.io/hermanzdosilovic) on keybase.
+  * I have a public key with fingerprint A068 5816 A80C 1B53 DDE7  BAC6 95AB E503 6288 698F
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101092831d65f44be440a31d147807cae5bde9948a1a2c6728815595490e69c72630a",
+      "fingerprint": "a0685816a80c1b53dde7bac695abe5036288698f",
+      "host": "keybase.io",
+      "key_id": "95abe5036288698f",
+      "kid": "0101092831d65f44be440a31d147807cae5bde9948a1a2c6728815595490e69c72630a",
+      "uid": "95a660c830cac8b11b2060500488b219",
+      "username": "hermanzdosilovic"
+    },
+    "service": {
+      "hostname": "hermanz.dosilovic.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1763057451,
+  "expire_in": 157680000,
+  "prev": "2bf7bcf753691b6846823cbdb669282afe14f65b0d49e01812b4dd22b4e3a221",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkntQVFUcx5eXyRbxjCE2pL0iUjBw7937ZBZFS0R8Ujtqluzcc+9ZuAJ7190V
+IVwmQEEERtAQsFl55BCowBDYMCYPJ8ZxWlKmggo1hGAUiEpyRsfKuteJZprpz+bM
+nHN+v/P9fX6POVU+Hiq1W835GQ9wVDzu5poFKjE4PC4fAZKQh8TnI5nw6QGzBGiz
+GzNFAYlHUExeLM7oMIEiTQQBIEGgnGxhBM2gNM9BEgiQZQmGwzicp2icYTCSZEmC
+RSHF8jRO6VAOiUFMojkdWi1W0WyXsRxKMSSDURyD8hggdYIAacDxFEtyAJKojpIx
+FMuY5MAMyaZEyMUBzgZjRUn2yYbxaXn/of+f6z6wlIeiUJ7RoTzHMwDDAI5SKImi
+BMMAHGMVoQ1azVw2lNUZ0JrNmd8VJJuYJeWIPOKIQeRX+QaVASsd/VsZ+480lpey
+ZZjFKtklXspSJHa7xRavIOx5FiXmIATGv2lGIJoFebByRA602kTJjMRjspK3iwoe
+o+UmSJogsRgE5lpEKzSKioKkKQZF0X2okgjmyEwcmGjAm2hSR7EYoBiCYnAdDwRA
+UfIQcc4EMcJEkQAVCBaiGIPhgBAEXN6hjsNxDFEa3G+WZLhOLpRLl5k2Md3M2Q9Y
+IeJQl7nrPFVualVYsNazMWN3cOtzmjdv3710dek3erkrX1Gl9vZb8mw87qdqhfrs
+t5pDN76wL3lxWVjlXP31FFh25oM1N0Yspxc6ubizk52ttRvqPmG+nrhCx0Y7vcKm
+iiKavlfP3uyo3/GsaAjIX141XWFIv7k43r/i3Kz1yOsOR8PJwR++vHC0fWvkj543
+8u74noz6zg9r1muQ6Y+b75WOtgRuW9U05Id8UfKTAW8YTZpY211SqxratEWv1bau
+LqmfqNk5nxdCpGTvR6uloF7t5bqKrub3lzd+dOvTJFY73BKyUkrQqE88TCX77/4W
+OFK6cAv9+ZXNzf0DrvHRxO60quTxmq+KzI8Nn2m3B/eUfO418HggMat7R4nLUVvs
+P+JKK3xUlxeQoDkcYsDqCofHb/e2H7rve2dXr7NnzVhfb1DA0INK4XAufap+XWPs
++oby8K5HM02Tu1OflBZf2jtYWaSfqya2nW154vOrxtjx2vwDLlJ/bOfphKDhE6mr
++w1NYdckxuHuPVaeFvrNsYLE6ldHZozvwYVD2vk2ddSfBVWD0XFtU39MdhYkRZix
+i7jJnOn1e9cu9/aH0cUvuY+tG3b2Ba695lEQOvAtpSm8emHuVM+ejvWje5/x701e
+fJsDqaucKU1v7PH1aXjxXtuZUefwhy3n+8oX9QWba8fSfK84284ddF1+2eUXEZVc
+/kt/VmZUWdT15+no6fmkyA3+4VPx/Ip3WlduCUnbdDG3wnvZ/cC/AA==
+=naEV
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hermanzdosilovic
+
+==================================================================

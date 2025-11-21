@@ -1,0 +1,45 @@
+body {
+    background-color: #eee;
+    color: black;
+    font-family: monospace;
+    margin: 0;
+    padding-top: 2rem;
+    text-align: center;
+}
+
+img {
+    border-radius: 100%;
+    width: 10rem;
+}
+
+pre {
+    background-color: white;
+    font-size: smaller;
+    margin: auto;
+    max-width: fit-content;
+    overflow-wrap: break-word;
+    padding: 1rem 2rem;
+    white-space: pre-wrap;
+}
+
+#footer {
+    bottom: 0;
+    font-size: x-small;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+
+hr {
+    margin: 1rem;
+    visibility: hidden;
+}
+
+.item {
+    display: inline-block;
+    margin: 1rem;
+}
+
+.item i {
+    color: black;
+}
